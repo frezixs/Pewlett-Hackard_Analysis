@@ -28,10 +28,13 @@ By the retiring_titles.csv we need the following job titles
 5. Technique Leader 
 6. Assistant Engineer 
 7. Manager 
+
 Totally 7 roles and 90398 employees 
 
 ![image](https://user-images.githubusercontent.com/49871539/121823818-98b26480-cc75-11eb-94c5-b2fb55e7ad21.png)
+
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 ![WeChat Image_20210613185521](https://user-images.githubusercontent.com/49871539/121824450-47f13a80-cc7a-11eb-9a20-3a3d8d06ec22.png)
 The above query help us found the employees comes after 1997, which I define them as "new generation". The results show that there are 
 73227 new generation employees. 
